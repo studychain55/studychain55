@@ -1,8 +1,18 @@
 <body>
-    <h1>誰でもオンライン学習が可能なツール一覧</h1>
-    <p>オンライン学習の普及により、いつでもどこでも誰もが自宅や旅行先でも学習ができる時代になりました。ここでは、学びたい内容や目的に合わせて選べる12のオンライン学習サービスを紹介します。</p>
+    <h1>竹本明弘のプロフィール</h1>
+    <p>竹本明弘のプロフィールとおすすめのオンライン学習できるツールを合わせて紹介します。</p>
+         <ul>
+        <li><strong>竹本明弘の経歴</strong><br>
+            <a href="https://studychain.jp/takemoto">https://studychain.jp/takemoto</a>
+        </li>
+        <li><strong>proff</strong><br>
+            <a href="https://proff.io/p/akihirotakemoto">https://proff.io/p/akihirotakemoto</a>
+        </li>
+    </ul>
     
   <h2>オンライン学習ツール一覧</h2>
+   <p>オンライン学習の普及により、いつでもどこでも誰もが自宅や旅行先でも学習ができる時代になりました。ここでは、学びたい内容や目的に合わせて選べる12のオンライン学習サービスを紹介します。</p>
+  
     <ul>
         <li><strong>Coursera</strong><br>
             大学や企業と提携し、質の高い講義を提供。修了証も取得でき、キャリアアップに役立ちます。<br>
